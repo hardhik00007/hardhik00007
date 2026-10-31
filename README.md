@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/switch-banner.gif" alt="Mechanical keyboard switch illustration in a Japanese industrial graphic style" width="100%">
+  <img src="assets/switch-banner.svg" alt="Animated mechanical keyboard switch illustration in a Japanese industrial graphic style" width="100%">
 </p>
 
 <h1 align="center">Hardhik</h1>

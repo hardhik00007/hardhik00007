@@ -24,10 +24,10 @@ hardhik00007/
 
 ## What changed
 
-- The header is now an illustrated coding-desk scene. It borrows the reference's Japanese screen-print / packaging-art language without depicting a keyboard switch or sushi product.
+- The header is an illustrated coding-desk scene. It borrows the reference's Japanese screen-print / packaging-art language without depicting a keyboard switch or sushi product.
 - Each featured project has its own locally stored illustration.
 - The broken \`github-readme-stats.vercel.app\` and \`github-readme-activity-graph.vercel.app\` embeds have been removed.
-- Local stats and language SVGs are stored in this repository. A GitHub Actions workflow refreshes them weekly and can also be run manually from the Actions tab.
+- Local stats and language SVGs are stored in this repository. GitHub Actions refreshes them after relevant README/script changes, weekly, or manually from the Actions tab.
 - The streak card remains a separate hosted image. The full GitHub contribution calendar is available in the native Activity section on the profile page.
 
 ## Update the profile
@@ -36,7 +36,7 @@ Edit \`README.md\` to change the introduction, projects, technology list, or lin
 
 To refresh the stats manually, open the profile repository's **Actions** tab, select **Refresh profile statistics**, and choose **Run workflow**. The workflow needs \`contents: write\` permission for its built-in GitHub token. The YAML in this package already declares that permission; repository Actions settings must allow the workflow token to write to the repository.
 
-The language card reports GitHub's primary-language label per public repository. It is not a measure of skill or exact byte share. Stats are refreshed weekly rather than on every profile visit.
+The language card reports GitHub's primary-language label per public repository. It is not a measure of skill or exact byte share.
 
 ## Local editing
 

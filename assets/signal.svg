@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="12" viewBox="0 0 900 12" role="img" aria-label="A subtle animated lime signal">
+  <rect width="900" height="12" rx="6" fill="#292b2d"/>
+  <path d="M6 6H894" stroke="#777b68" stroke-width="1" opacity=".8"/>
+  <circle cx="6" cy="6" r="3.5" fill="#d7e52c">
+    <animate attributeName="cx" values="6;894;6" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>

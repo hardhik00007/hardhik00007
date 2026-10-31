@@ -1,7 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="278" viewBox="0 0 980 278" role="img" aria-label="Primary language by public repository">
-<rect width="980" height="278" rx="12" fill="#292b2d" stroke="#565b5d"/><text x="24" y="34" fill="#e8e6de" font-family="Arial,sans-serif" font-size="16" font-weight="700">PRIMARY LANGUAGE BY PUBLIC REPOSITORY</text><text x="24" y="56" fill="#969a9a" font-family="Arial,sans-serif" font-size="11">One primary-language label per repository with language metadata</text>
-<g font-family="Arial,sans-serif" font-size="13"><text x="24" y="95" fill="#e8e6de">C++</text><rect x="180" y="81" width="600" height="12" rx="6" fill="#45494b"/><rect x="180" y="81" width="600" height="12" rx="6" fill="#c98c75"/><text x="814" y="95" fill="#b8bab5" font-size="12">2 repos</text>
-<text x="24" y="129" fill="#e8e6de">Python</text><rect x="180" y="115" width="600" height="12" rx="6" fill="#45494b"/><rect x="180" y="115" width="300" height="12" rx="6" fill="#8fae9d"/><text x="814" y="129" fill="#b8bab5" font-size="12">1 repo</text>
-<text x="24" y="163" fill="#e8e6de">JavaScript</text><rect x="180" y="149" width="600" height="12" rx="6" fill="#45494b"/><rect x="180" y="149" width="300" height="12" rx="6" fill="#c5b06b"/><text x="814" y="163" fill="#b8bab5" font-size="12">1 repo</text>
-<text x="24" y="197" fill="#e8e6de">TypeScript</text><rect x="180" y="183" width="600" height="12" rx="6" fill="#45494b"/><rect x="180" y="183" width="300" height="12" rx="6" fill="#87a9b4"/><text x="814" y="197" fill="#b8bab5" font-size="12">1 repo</text>
-<text x="24" y="231" fill="#e8e6de">Java</text><rect x="180" y="217" width="600" height="12" rx="6" fill="#45494b"/><rect x="180" y="217" width="300" height="12" rx="6" fill="#b7a18e"/><text x="814" y="231" fill="#b8bab5" font-size="12">1 repo</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="300" viewBox="0 0 980 300" role="img" aria-label="Primary languages used across public repositories">
+<rect width="980" height="300" rx="12" fill="#292b2d" stroke="#565b5d"/>
+<text x="24" y="33" fill="#e8e6de" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1.1">PRIMARY LANGUAGE BY REPOSITORY</text>
+<text x="24" y="55" fill="#969a9a" font-family="Arial,sans-serif" font-size="11">Counts GitHub’s primary-language label once per public repository</text>
+<text x="24" y="95" fill="#e8e6de" font-family="Arial,sans-serif" font-size="13">C++</text>
+<rect x="180" y="81" width="600" height="11" rx="5.5" fill="#45494b"/>
+<rect x="180" y="81" width="560" height="11" rx="5.5" fill="#c98c75"/>
+<text x="814" y="95" fill="#b8bab5" font-family="Arial,sans-serif" font-size="12">2 repos</text>
+<text x="24" y="127" fill="#e8e6de" font-family="Arial,sans-serif" font-size="13">Java</text>
+<rect x="180" y="113" width="600" height="11" rx="5.5" fill="#45494b"/>
+<rect x="180" y="113" width="280" height="11" rx="5.5" fill="#b7a18e"/>
+<text x="814" y="127" fill="#b8bab5" font-family="Arial,sans-serif" font-size="12">1 repo</text>
+<text x="24" y="159" fill="#e8e6de" font-family="Arial,sans-serif" font-size="13">TypeScript</text>
+<rect x="180" y="145" width="600" height="11" rx="5.5" fill="#45494b"/>
+<rect x="180" y="145" width="280" height="11" rx="5.5" fill="#87a9b4"/>
+<text x="814" y="159" fill="#b8bab5" font-family="Arial,sans-serif" font-size="12">1 repo</text>
+<text x="24" y="191" fill="#e8e6de" font-family="Arial,sans-serif" font-size="13">JavaScript</text>
+<rect x="180" y="177" width="600" height="11" rx="5.5" fill="#45494b"/>
+<rect x="180" y="177" width="280" height="11" rx="5.5" fill="#c5b06b"/>
+<text x="814" y="191" fill="#b8bab5" font-family="Arial,sans-serif" font-size="12">1 repo</text>
+<text x="24" y="223" fill="#e8e6de" font-family="Arial,sans-serif" font-size="13">Python</text>
+<rect x="180" y="209" width="600" height="11" rx="5.5" fill="#45494b"/>
+<rect x="180" y="209" width="280" height="11" rx="5.5" fill="#8fae9d"/>
+<text x="814" y="223" fill="#b8bab5" font-family="Arial,sans-serif" font-size="12">1 repo</text>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.jpg" alt="Isometric retro coding desk in a Japanese editorial illustration style" width="100%">
+  <img src="assets/profile-banner.svg" alt="Isometric retro coding desk in a Japanese editorial illustration style" width="100%">
 </p>
 
 <h1 align="center">Hardhik</h1>
@@ -70,7 +70,7 @@ I'm a Computer Science student interested in backend engineering, distributed sy
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hardhik00007&amp;theme=dark&amp;hide_border=true&amp;background=292B2D&amp;ring=B8C45A&amp;fire=C98C4B&amp;currStreakLabel=E8E6DE&amp;sideLabels=B8BAB5&amp;dates=969A9A&amp;currStreakNum=E8E6DE&amp;sideNums=E8E6DE" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=hardhik00007&amp;theme=dark&amp;hide_border=true&amp;background=292B2D&amp;ring=B8C45A&amp;fire=C98C75&amp;currStreakLabel=E8E6DE&amp;sideLabels=B8BAB5&amp;dates=969A9A&amp;currStreakNum=E8E6DE&amp;sideNums=E8E6DE" alt="GitHub contribution streak" />
 </p>
 
 <p align="center"><sub>For the full contribution calendar, see the Activity section on my <a href="https://github.com/hardhik00007">GitHub profile</a>.</sub></p>

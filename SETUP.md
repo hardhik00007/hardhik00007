@@ -9,7 +9,7 @@ hardhik00007/
 ├── README.md
 ├── SETUP.md
 ├── assets/
-│   ├── profile-banner.jpg
+│   ├── profile-banner.svg
 │   ├── project-aqshield.svg
 │   ├── project-variable.svg
 │   ├── project-quantum.svg
@@ -32,7 +32,7 @@ hardhik00007/
 
 ## Update the profile
 
-Edit \`README.md\` to change the introduction, projects, technology list, or links. Replace \`assets/profile-banner.jpg\` to change the banner, or update the four project SVGs to change the project artwork.
+Edit \`README.md\` to change the introduction, projects, technology list, or links. Replace \`assets/profile-banner.svg\` to change the banner, or update the four project SVGs to change the project artwork.
 
 To refresh the stats manually, open the profile repository's **Actions** tab, select **Refresh profile statistics**, and choose **Run workflow**. The workflow needs \`contents: write\` permission for its built-in GitHub token. The YAML in this package already declares that permission; repository Actions settings must allow the workflow token to write to the repository.
 

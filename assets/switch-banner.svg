@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Switch / 001</title>
+  <desc id="desc">A mechanical keyboard switch in a restrained Japanese industrial poster style.</desc>
+  <defs>
+    <pattern id="wave" width="42" height="24" patternUnits="userSpaceOnUse">
+      <path d="M0 24 A21 21 0 0 1 42 24" fill="none" stroke="#777b78" stroke-width="1.4"/>
+    </pattern>
+    <pattern id="limeWave" width="42" height="24" patternUnits="userSpaceOnUse">
+      <path d="M0 24 A21 21 0 0 1 42 24" fill="none" stroke="#d7e52c" stroke-width="1.4"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="400" fill="#292b2d"/>
+  <circle cx="850" cy="190" r="116" fill="#d7e52c" opacity=".92">
+    <animate attributeName="opacity" values=".84;.96;.84" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="90" y="92" width="300" height="210" fill="url(#wave)" opacity=".9"/>
+  <rect x="780" y="190" width="330" height="132" fill="url(#limeWave)" opacity=".88"/>
+  <rect x="820" y="70" width="250" height="118" fill="url(#wave)" opacity=".65"/>
+
+  <g fill="none" stroke="#a8aaa3" stroke-width="1.3" opacity=".7">
+    <path d="M0 74H220m-90 18h150M75 320h245M890 58h210M965 340h235"/>
+    <path d="M34 45v48m1130 220v52M410 58v45m370 245v36"/>
+    <circle cx="78" cy="180" r="3" fill="#d7e52c" stroke="none">
+      <animate attributeName="r" values="2.5;4;2.5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1090" cy="130" r="3" fill="#d7e52c" stroke="none">
+      <animate attributeName="r" values="3;4.5;3" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="345" r="3" fill="#d7e52c" stroke="none"/>
+  </g>
+
+  <g fill="#17191b">
+    <path d="M155 42h76q10 0 10 10t-10 10h-40q-10 0-10 10t10 10h85q10 0 10 10t-10 10H155q-10 0-10-10t10-10h20q10 0 10-10t-10-10h-20q-10 0-10-10t10-10Z"/>
+    <path d="M930 296h74q10 0 10 10t-10 10h-42q-10 0-10 10t10 10h80q10 0 10 10t-10 10H930q-10 0-10-10t10-10h20q10 0 10-10t-10-10h-20q-10 0-10-10t10-10Z"/>
+  </g>
+
+  <g transform="translate(0 2)">
+    <path d="M455 235 600 300 752 229 610 166Z" fill="#17191b" stroke="#d7e52c" stroke-width="3"/>
+    <path d="M455 235v40l145 68v-43Z" fill="#484b4e" stroke="#17191b" stroke-width="3"/>
+    <path d="M600 300v43l152-72v-42Z" fill="#35383a" stroke="#17191b" stroke-width="3"/>
+    <path d="M482 250 600 304 726 245" fill="none" stroke="#d7e52c" stroke-width="2" stroke-dasharray="4 7"/>
+    <path d="M506 172 615 116 724 170 615 225Z" fill="#e8e6de" stroke="#17191b" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M506 172v34l109 57v-38Z" fill="#c8c9c0" stroke="#17191b" stroke-width="4"/>
+    <path d="M615 225v38l109-57v-36Z" fill="#aaaDA7" stroke="#17191b" stroke-width="4"/>
+    <path d="M531 177 615 135 699 176 615 218Z" fill="#d6d5c9" stroke="#484b4e" stroke-width="2"/>
+    <g transform="translate(0 -3)">
+      <path d="M590 133 615 121 640 133 615 146Z" fill="#d7e52c" stroke="#17191b" stroke-width="4"/>
+      <path d="M590 133v-52l25-13v53Z" fill="#b9c52a" stroke="#17191b" stroke-width="4"/>
+      <path d="M615 121V68l25 13v52Z" fill="#d7e52c" stroke="#17191b" stroke-width="4"/>
+      <path d="M590 81 615 68 640 81 615 94Z" fill="#e8e6de" stroke="#17191b" stroke-width="4"/>
+      <animateTransform attributeName="transform" type="translate" values="0 -3;0 1;0 -3" dur="4s" repeatCount="indefinite"/>
+    </g>
+    <path d="M532 207 558 220m126-14 23-12" stroke="#c98c4b" stroke-width="4" stroke-linecap="round"/>
+    <path d="M584 232v22m63-24v22" stroke="#d7e52c" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#e8e6de" font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="145" font-size="13" letter-spacing="4">MECHANICAL / SERIES 001</text>
+    <text x="72" y="170" font-size="10" letter-spacing="2" opacity=".65">A SMALL STUDY IN SWITCHES</text>
+    <text x="930" y="375" font-size="11" letter-spacing="3" text-anchor="end" opacity=".75">HARDHIK / ENGINEERING NOTES</text>
+  </g>
+  <path d="M72 190h118" stroke="#d7e52c" stroke-width="2"/>
+</svg>

@@ -1,8 +1,8 @@
-# Setting up the Hardhik GitHub profile
+# Hardhik's GitHub profile
 
-This is the special public profile repository for `hardhik00007`. It contains the profile README and its artwork.
+This is the special public profile repository for `hardhik00007`. GitHub renders `README.md` on the account profile automatically because the public repository name matches the username.
 
-## Repository structure
+## Files
 
 ```text
 hardhik00007/
@@ -13,27 +13,42 @@ hardhik00007/
     └── signal.svg
 ```
 
-GitHub displays this README automatically because the public repository name matches the username.
+## View the profile
 
-## Personalize it later
+Open [github.com/hardhik00007](https://github.com/hardhik00007). Changes to `main` appear on the profile after GitHub refreshes the README.
 
-Edit `README.md` to change the headline, About section, selected projects, or technologies. Project cards are plain Markdown links.
+## Edit the profile later
 
-To change the banner, replace `assets/switch-banner.svg` and keep the same filename, or update the image path in the first image element in `README.md`. The small animated signal is `assets/signal.svg`. If GitHub sanitizes animation in your browser, the line still renders as a static accent.
+1. Open the [profile repository](https://github.com/hardhik00007/hardhik00007).
+2. Edit `README.md` to update the headline, introduction, projects, technologies, or links.
+3. Replace `assets/switch-banner.svg` to change the main artwork, keeping the filename or updating its path in `README.md`.
+4. Edit `assets/signal.svg` to adjust the small animated signal line. Its animation uses SVG motion; where animation is not supported, the line remains a static accent.
+5. Commit the changes to `main`.
 
-The email address is displayed publicly through a `mailto:` link. Remove that link if you do not want the address public.
+You can also clone the repository and edit it locally:
 
-## About the live statistics
+```bash
+git clone https://github.com/hardhik00007/hardhik00007.git
+cd hardhik00007
+# edit README.md or files under assets/
+git add README.md SETUP.md assets
+git commit -m "Update GitHub profile"
+git push
+```
 
-The statistics, language, streak, and activity images are served by external community services. They update independently of this repository and can occasionally be rate-limited or unavailable. GitHub's own contribution graph is controlled by GitHub.
+## Contact information
 
-The language card reports languages detected in repositories; it is not a measure of skill. Contribution counts can also depend on contribution visibility and repository settings.
+The README includes a public `mailto:` link using the supplied email address. Remove that link if you do not want the address visible to everyone.
 
-## Selected projects
+## Live statistics
+
+The GitHub statistics, language, streak, and activity images are provided by external community services. They update independently and may occasionally be rate-limited or unavailable. The language card reports languages detected in repositories; it is not a measure of skill.
+
+## Featured projects
 
 - `hardhik00007/AQShield-`
 - `hardhik00007/Variable`
 - `hardhik00007/quantum-job-tracker`
-- `karthikvemula1307/idea-incubator-` (repository hosted under another account)
+- `karthikvemula1307/idea-incubator-` (hosted under another account)
 
-Descriptions are intentionally concise. Update them when project scope or ownership changes.
+Project descriptions should be revised as scope, implementation, or ownership changes.

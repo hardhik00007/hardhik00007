@@ -50,7 +50,7 @@
   <g fill="#e8e6de" font-family="Arial, sans-serif">
     <text x="76" y="70" font-size="13" letter-spacing="4" opacity=".7">FIELD NOTE / 001</text>
     <text x="76" y="390" font-size="12" letter-spacing="3" opacity=".52">MECHANICAL INPUT / HUMAN OUTPUT</text>
-    <text x="1320" y="195" font-size="18" text-anchor="middle" transform="rotate(90 1320 195)" fill="#d7e52c" letter-spacing="4">スイッチ</text>
+    <text x="1320" y="195" font-size="18" text-anchor="middle" transform="rotate(90 1320 195)" fill="#d7e52c" letter-spacing="4">SWITCH</text>
   </g>
   <g fill="none" stroke="#d7e52c" opacity=".7">
     <path d="M76 105h72m-72 8h42M1070 390h130m-130 8h80"/>
